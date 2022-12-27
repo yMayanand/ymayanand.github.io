@@ -3,8 +3,6 @@ layout: post
 title: How to Visualize Filters of Convolutional Neural Networks?
 ---
 
-# How to Visualize Filters of Convolutional Neural Networks
-
 A very useful explanation of what convnets learn
 
 ## In this blogpost we will visualize the filters of resnet-50 architecture
