@@ -69,9 +69,8 @@ for i, filter_weight in enumerate(model.conv1.weight):
     plt.suptitle('1st Convolutional Layer Weights/Filters')
 ```
 
-
 ​    
-![png](2022-01-19-visualization-post_files/2022-01-19-visualization-post_9_0.png)
+![png](/images/2022-01-19-visualization-post_files/2022-01-19-visualization-post_9_0.png)
 ​    
 
 
@@ -187,7 +186,7 @@ for i in tqdm(range(64)):
 
 
 
-![png](2022-01-19-visualization-post_files/2022-01-19-visualization-post_18_2.png)
+![png](/images/2022-01-19-visualization-post_files/2022-01-19-visualization-post_18_2.png)
     
 
 
@@ -219,7 +218,7 @@ for i in tqdm(range(64)):
 
 
 
-![png](2022-01-19-visualization-post_files/2022-01-19-visualization-post_20_1.png)
+![png](/images/2022-01-19-visualization-post_files/2022-01-19-visualization-post_20_1.png)
     
 
 
@@ -251,7 +250,7 @@ for i in tqdm(range(64)):
 
 
 
-![png](2022-01-19-visualization-post_files/2022-01-19-visualization-post_22_1.png)
+![png](/images/2022-01-19-visualization-post_files/2022-01-19-visualization-post_22_1.png)
     
 
 
@@ -313,7 +312,7 @@ for i in tqdm(range(16)):
 
 
 
-![png](2022-01-19-visualization-post_files/2022-01-19-visualization-post_26_1.png)
+![png](/images/2022-01-19-visualization-post_files/2022-01-19-visualization-post_26_1.png)
     
 
 
