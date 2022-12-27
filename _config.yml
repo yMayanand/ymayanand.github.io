@@ -26,7 +26,7 @@ footer-links:
   linkedin: ymayanand
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: __Mayanand__
+  twitter: ymayanand
   stackoverflow: "users/20532008/mayanand"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -57,6 +57,9 @@ permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
+
+# adding the remote theme
+remote_theme: daattali/beautiful-jekyll 
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
